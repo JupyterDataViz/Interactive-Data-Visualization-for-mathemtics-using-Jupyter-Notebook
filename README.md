@@ -1,7 +1,5 @@
 # Interactive-Data-Visualization-for-mathemtics-using-Jupyter-Notebook
 An interactive Jupyter Notebook project for visualizing mathematical concepts and data through dynamic visualizations
-# Interactive-Data-Visualization-for-mathemtics-using-Jupyter-Notebook
-An interactive Jupyter Notebook project for visualizing mathematical concepts and data through dynamic visualizations
 # Interactive Data Visualization for Mathematics using Jupyter Notebooks
 I developed a program in Jupyter Notebook based on Python language and its modules, such as Numpy,Matplotlib, ipywidget, and Ipython, as some machine learning modules such as sklearn to visualize the process of solution of theories mathematical data from beginners to advanced learners.
 ## Project Overview
