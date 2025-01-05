@@ -41,9 +41,6 @@ Special thanks to the PyCon community to create collaborative space for learning
 
   ## Installation
 
-To run this project locally, follow these steps:
-
-# To run this project locally, follow these steps:
 
 # To run this project locally, follow these steps:
 
