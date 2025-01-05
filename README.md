@@ -56,6 +56,11 @@ This project utilizes the following Python libraries:
 
 - this image is one of the outputs of the project that shows the Addition operation on the Horizontal line:
 ![Project Visualization](images/line.jpg)
+- this image is an other of the outputs of the project that shows the cube root operation in geometric shape:
+![Project Visualization](images/cuberoot.jpg)
+
+- this image is an other of the outputs of the project that shows the square root operation of the imperfect numbers by deep learning algorithms:
+![Project Visualization](images/rootbyDL.jp
 
 ## Installation
 
