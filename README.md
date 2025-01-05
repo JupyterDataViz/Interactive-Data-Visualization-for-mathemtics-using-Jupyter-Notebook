@@ -38,6 +38,10 @@ All in all, I want to dedicate this program to women and girls who faced problem
 
 Special thanks to the PyCon community to create collaborative space for learning and sharing knowledge.
 
+```plaintext
+*.py linguist-language=Python
+*.ipynb linguist-language=Python
+
   ## Installation
 
 To run this project locally, follow these steps:
@@ -77,9 +81,6 @@ jupyter notebook
 
 To ensure that this project is recognized as a Python project by GitHub, we have used a `.gitattributes` file with the following entries:
 
-```plaintext
-*.py linguist-language=Python
-*.ipynb linguist-language=Python
 
 
 
