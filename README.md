@@ -39,8 +39,6 @@ source venv/bin/activate
    
    pip install -r requirements.txt
 
-4. Start Jupyter Notebook:
-   
   ### Start Jupyter Notebook
 ```bash
 jupyter notebook
