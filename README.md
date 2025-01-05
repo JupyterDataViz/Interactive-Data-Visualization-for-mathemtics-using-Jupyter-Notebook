@@ -39,9 +39,29 @@ All in all, I want to dedicate this program to women and girls who faced problem
 Special thanks to the PyCon community to create collaborative space for learning and sharing knowledge.
 
 
-  ## Installation
 
+# Interactive Data Visualization for Mathematics using Jupyter Notebook
 
+This project is designed to help visualize mathematical problems interactively using Jupyter Notebook. It utilizes several Python libraries to create visualizations for a variety of mathematical problems, making learning easier and more engaging.
+
+## Libraries and Modules Used
+
+This project utilizes the following Python libraries:
+
+- **Numpy**: For numerical operations
+- **Matplotlib**: To create static, charts and graphs.
+- **ipywidgets**: To enable user inputs and dynamic outputs.
+- **Ipython**
+- **scikit-learn (sklearn)**: For machine learning algorithms and visualizing solutions of problems with no absolute answers, such as those involving imperfect numbers.
+
+## Installation
+
+To run this project, ensure the following libraries are installed in your environment. You can install them via pip:
+
+```bash
+pip install numpy matplotlib ipywidgets ipython scikit-learn
+
+## Installation
 # To run this project locally, follow these steps:
 
 1. Clone the repository:
