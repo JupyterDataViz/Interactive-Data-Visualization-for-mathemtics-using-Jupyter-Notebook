@@ -53,6 +53,7 @@ This project utilizes the following Python libraries:
 - **ipywidgets**: To enable user inputs and dynamic outputs.
 - **Ipython**
 - **scikit-learn (sklearn)**: For machine learning algorithms and visualizing solutions of problems which has no absolute answers, such as the answers includes imperfect numbers.
+![Project Visualization](images/vector.jpg)
 
 ## Installation
 
@@ -93,7 +94,6 @@ jupyter notebook
 
 ## Language Attribution
 
-![Project Visualization](images/vector.jpg)
 
 
 
