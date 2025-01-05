@@ -38,9 +38,6 @@ All in all, I want to dedicate this program to women and girls who faced problem
 
 Special thanks to the PyCon community to create collaborative space for learning and sharing knowledge.
 
-```plaintext
-*.py linguist-language=Python
-*.ipynb linguist-language=Python
 
   ## Installation
 
