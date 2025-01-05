@@ -41,7 +41,10 @@ source venv/bin/activate
 
 4. Start Jupyter Notebook:
    
-   jupyter notebook
+  ### Start Jupyter Notebook
+```bash
+jupyter notebook
+
 
    
    
