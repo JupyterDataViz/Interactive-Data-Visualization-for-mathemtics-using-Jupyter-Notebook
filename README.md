@@ -73,6 +73,15 @@ source venv/bin/activate
 ### Start Jupyter Notebook
 jupyter notebook
 
+## Language Attribution
+
+To ensure that this project is recognized as a Python project by GitHub, we have used a `.gitattributes` file with the following entries:
+
+```plaintext
+*.py linguist-language=Python
+*.ipynb linguist-language=Python
+
+
 
    
    
