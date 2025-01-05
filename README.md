@@ -27,8 +27,10 @@ To run this project locally, follow these steps:
    
    python -m venv venv 
    
-   # On Unix-based systems (Linux/macOS):
-   source venv/bin/activate 
+### On Unix-based systems (Linux/macOS):
+```bash
+source venv/bin/activate
+ 
    
    # On Windows:
    venv\Scripts\activate
