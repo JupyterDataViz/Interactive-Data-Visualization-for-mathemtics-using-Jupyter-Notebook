@@ -93,7 +93,7 @@ jupyter notebook
 
 ## Language Attribution
 
-To ensure that this project is recognized as a Python project by GitHub, we have used a `.gitattributes` file with the following entries:
+
 
 
 
