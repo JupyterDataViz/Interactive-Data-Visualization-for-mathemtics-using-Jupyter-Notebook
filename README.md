@@ -53,7 +53,7 @@ git clone https://github.com/yourusername/interactive-math-visualization.git
 cd interactive-math-visualization
 
 
-3. Create and activate a virtual environment (optional but recommended):
+2. Create and activate a virtual environment (optional but recommended):
    
    python -m venv venv 
    
