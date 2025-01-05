@@ -93,6 +93,7 @@ jupyter notebook
 
 ## Language Attribution
 
+![Project Visualization](images/vector.jpg)
 
 
 
