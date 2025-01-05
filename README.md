@@ -64,14 +64,14 @@ pip install numpy matplotlib ipywidgets ipython scikit-learn
 ## Installation
 # To run this project locally, follow these steps:
 
-1. Clone the repository:
+#1. Clone the repository:
  
 #Clone the repository:
 git clone https://github.com/yourusername/interactive-math-visualization.git
 cd interactive-math-visualization
 
 
-2. Create and activate a virtual environment (optional but recommended):
+#2. Create and activate a virtual environment (optional but recommended):
    
    python -m venv venv 
    
@@ -83,11 +83,11 @@ source venv/bin/activate
    # On Windows:
    venv\Scripts\activate
 
-3. Install the required dependencies:
+#3. Install the required dependencies:
    
  pip install -r requirements.txt
 
-4. Start Jupyter Notebook
+#4. Start Jupyter Notebook
 ### Start Jupyter Notebook
 jupyter notebook
 
