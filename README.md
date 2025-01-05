@@ -47,16 +47,18 @@ To run this project locally, follow these steps:
 # To run this project locally, follow these steps:
 
 1. Clone the repository:
-   
-   git clone https://github.com/yourusername/interactive-math-visualization.git
-   cd interactive-math-visualization
+  ```bash
+#Clone the repository:
+git clone https://github.com/yourusername/interactive-math-visualization.git
+cd interactive-math-visualization
 
-2. Create and activate a virtual environment (optional but recommended):
+
+3. Create and activate a virtual environment (optional but recommended):
    
    python -m venv venv 
    
 ### On Unix-based systems (Linux/macOS):
-```bash
+
 source venv/bin/activate
  
    
