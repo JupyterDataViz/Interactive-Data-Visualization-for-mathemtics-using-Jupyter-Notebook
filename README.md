@@ -52,7 +52,7 @@ This project utilizes the following Python libraries:
 - **Matplotlib**: To create static, charts and graphs.
 - **ipywidgets**: To enable user inputs and dynamic outputs.
 - **Ipython**
-- **scikit-learn (sklearn)**: For machine learning algorithms and visualizing solutions of problems with no absolute answers, such as those involving imperfect numbers.
+- **scikit-learn (sklearn)**: For machine learning algorithms and visualizing solutions of problems which has no absolute answers, such as the answers includes imperfect numbers.
 
 ## Installation
 
@@ -65,7 +65,7 @@ pip install numpy matplotlib ipywidgets ipython scikit-learn
 # To run this project locally, follow these steps:
 
 1. Clone the repository:
-  ```bash
+ 
 #Clone the repository:
 git clone https://github.com/yourusername/interactive-math-visualization.git
 cd interactive-math-visualization
