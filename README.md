@@ -66,8 +66,8 @@ pip install numpy matplotlib ipywidgets ipython scikit-learn
 
 #1. Clone the repository:
  
-#Clone the repository:
-git clone https://github.com/yourusername/interactive-math-visualization.git
+
+git clone https://github.com/JupyterDataVize/interactive-math-visualization.git
 cd interactive-math-visualization
 
 
@@ -88,7 +88,7 @@ source venv/bin/activate
  pip install -r requirements.txt
 
 #4. Start Jupyter Notebook
-### Start Jupyter Notebook
+
 jupyter notebook
 
 ## Language Attribution
